@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gausahmed/Gausahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,22 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQFF2KDCagRc0w/profile-displaybackgroundimage-shrink_350_1400/0/1654518808485?e=1680134400&v=beta&t=6fv2zZKZ39zzaNQ0B-8GokWed01uPdrtlTUfuM0qtz0)](https://ritesh.cloud)
+
 
 <h1 align="center">Hi , I'm Gaus Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am Gaus, a passionate and creative student from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ Cloud🤖 and Backend.
+I am Gaus, Passionate about ensuring systems are not just up and running, but resilient, scalable, and efficient. As an SRE, I thrive on the intersection of development and operations, continuously striving to automate processes, enhance monitoring, and streamline deployments for optimal performance and reliability.
 
-I ❤️ to work with Cloud technologies and Python. I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana.
+### 🌟 Highlights
+- #### Automated Operations: Leveraging infrastructure as code (IaC) tools like Terraform and Ansible to automate provisioning, configuration, and maintenance tasks, reducing manual errors and enhancing system stability.
+- #### Containerization Champion: Proficient in Docker and Kubernetes, orchestrating containerized environments to achieve scalability, portability, and efficient resource utilization.
+- #### Monitoring Maestro: Implementing robust monitoring solutions with Prometheus and Grafana, ensuring real-time visibility into system health, performance metrics, and proactive issue resolution.
+- #### DevOps Advocate: Fostering a culture of collaboration and continuous improvement, advocating for DevOps practices to bridge the gap between development and operations teams for faster, more reliable software delivery.
 
-I am currently pursuing B.Tech. from MGM's College of Engineering, Nanded, and during my studies I have gained the fundamental knowldge of computer science, its core features and working. 
-
-Along with my Studies, I am also working on building my skillset in Devops, Cloud and Good practices of software development .
-
-
-
-<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
+<!-- <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300"> -->
 
 ## :zap: Skills
 
